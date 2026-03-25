@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanya</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Python</h3>
+<h3 align="center">Data Analyst | Power BI | SQL | Excel | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+Learner" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhanya-insights&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Excel+%7C+Python" />
 </p>
 
 # 💫 About Me:
