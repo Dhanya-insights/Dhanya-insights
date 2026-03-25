@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanya</h1>
-<h3 align="center">Data Analyst | Power BI | SQL | Excel | Python</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Excel+%7C+Python" />
-</p>
+<h3 align="center"> Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Data Analytics Projects  <br>🌱 I’m currently learning SQL, Power BI, Excel & Python  <br>👯 I’m looking to collaborate on Data Analysis Projects  <br>💬 Ask me about Data Visualization, Dashboards & Insights  <br>📫 Reach me at: dhanya.241203@gmail.com  <br>⚡ Fun fact: I enjoy transforming raw data into meaningful insights
