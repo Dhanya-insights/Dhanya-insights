@@ -16,5 +16,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dhanya-insights&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanya-insights&layout=compact&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
