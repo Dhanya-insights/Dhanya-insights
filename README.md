@@ -14,6 +14,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dhanya-insights&theme=radical" />
 
+## 💻 Top Languages
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhanya-insights&theme=radical" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhanya-insights&theme=radical" />
